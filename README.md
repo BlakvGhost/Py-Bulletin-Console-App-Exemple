@@ -22,3 +22,23 @@ Pour lancer l'application, exécuter la commande suivante :
 ```py
 python main.py
 ```
+
+L'application affichera un menu permettant de créer un nouveau bulletin ou de consulter les bulletins existants.
+
+## Architecture du projet
+
+Le projet est composé des fichiers suivants :
+
+- main.py : le point d'entrée de l'application
+- bulletin.py : le module qui contient la classe Bulletin qui permet de créer et de consulter des bulletins
+- bulletins.txt : le fichier texte qui contient les bulletins enregistrés
+
+## Contribuer
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer une pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+![Screenshot](Capture.png)
